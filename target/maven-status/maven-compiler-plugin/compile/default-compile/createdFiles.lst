@@ -1,0 +1,3 @@
+com\automation_hseq\Models\Usuario.class
+com\automation_hseq\PageObjects\LoginPageObjects.class
+com\automation_hseq\Steps\LoginSteps.class
